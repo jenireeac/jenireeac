@@ -1,7 +1,7 @@
 ![avfu043y2kv52wha](https://user-images.githubusercontent.com/90156468/202922285-1db853e4-06ba-4905-909a-772bbd2855a4.jpg)
 
 # 💫 About Me:
-A passionate and creative full stack developer 
+👋 Hi there! I'm Jeni, a passionate full-stack developer based in San Antonio, TX.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeniree-alvarez-4ba997206) 
