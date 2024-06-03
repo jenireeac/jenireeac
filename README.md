@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 👋 Hi there! I'm Jeni, a passionate full-stack developer based in San Antonio, TX.
+📫 Feel free to reach out to me by email if you have any questions, suggestions, or opportunities. Let's connect and create something awesome together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeniree-alvarez-4ba997206) 
